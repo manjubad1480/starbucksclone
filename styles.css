@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+.logo{
+    padding-top: 15px;
+    padding-left: 20px;
+}
+
+.logo{
+    width: 100px;
+
+}
+
+.header{
+    background-color: rgba(70, 62, 62, 0.073);
+}
+
+.nav{
+    padding: 45px 10px 27px 27px;
+}
+
+a{
+    font-size: 22px;
+}
+
+button{
+    border: 5px;
+    background: none;
+    padding: 10px ;
+    font-size: 26px;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+button:hover{
+    background-color: black;
+}
+
+button a{
+    text-decoration: none;
+    color: rgb(53, 48, 48);
+}
+
+.nav button a:hover{
+    color: white;
+}
+
+button a:visited{
+    color: black;
+}
+
+
+.location {
+    position: absolute;
+    width: 155px;
+    bottom: 88%;
+    left: 85%;
+}
+
+.mainimage{
+    width: 1583px;
+    height: 875px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.orderimage{
+    width: 1583px;
+    height: 560px;
+    justify-content: ;
+}
+
+.rewardsimage{
+    width: 1583px;
+    height: 560px;
+}
+
+.ubereatsimage{
+    width: 1583px;
+    height: 560px;
+}
+
+.mobileorder{
+    width: 1583px;
+    height: 560px;
+}
+
+.socials {
+    margin-top: 100px;
+    background-color: rgba(128, 128, 128, 0.104);
+    padding-left: 72px;
+    padding-top: 40px;
+    opacity: 80%;
+}
+
+.socials img {
+   padding: 15px;
+    width: 70px;
+}
